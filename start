@@ -1,0 +1,4 @@
+ls -al
+mkdir testo logy
+java -jar webgota
+More information
